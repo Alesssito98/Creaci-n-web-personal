@@ -12,7 +12,7 @@ export default function Home() {
         <div class="p-4">
           <h2 class="text-xl font-semibold mb-2">Portada Rodry</h2>
           <p class="text-justify text-gray-300">Diseño para la portada de una canción de Rodry.</p>
-          <p class="text-gray-300 text-justify"><a href="https://open.spotify.com/intl-es/artist/73TRkINpTWLP5i1ymnwpil" target="_blank"><u>Enlace al Proyecto Vercel</u></a></p>
+          <p class="text-gray-300 text-justify"><a href="https://open.spotify.com/intl-es/artist/73TRkINpTWLP5i1ymnwpil" target="_blank"><u>Enlace al Spotify de Rodry</u></a></p>
         </div>
       </div>
 
