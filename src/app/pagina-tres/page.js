@@ -22,7 +22,7 @@ export default function Home() {
         </div>
 
         <div class="p-4">
-          <h2 class="text-xl font-semibold mb-2">Proyecto CV/Porfolio HTML5UP</h2>
+          <h2 class="text-xl font-semibold mb-2">Ilustración Joker</h2>
           <p class="text-justify text-gray-300">En este trabajo tuvimos que dibujar una ilustración del Joker siguiendo los pasos del ilustrador Oscar Llorens.</p>
           <p class="text-gray-300 text-justify"><a href="https://oscarllorens.com/" target="_blank"><u>Enlace a la web de Oscar Llorens</u></a></p>
 
