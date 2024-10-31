@@ -35,8 +35,7 @@ export default function Home() {
 
         <div class="max-w-sm border-gray-300 bg-black text-white rounded-lg shadow-lg overflow-hidden m-8">
           <div class="h-48 flex items-center justify-center m-8">
-            <Image src="/CV.jpg" width={500} height={500} alt="Imagen de CV" class="h-full object-cover"/>
-            <Image src="/porfoliojpg.jpg" width={500} height={500} alt="Imagen de porfolio" class="h-full object-cover"/>
+            <Image src="/web-sencilla.jpg" width={500} height={500} alt="Imagen de CV" class="h-full object-cover"/>
           </div>
 
           <div class="p-4">
